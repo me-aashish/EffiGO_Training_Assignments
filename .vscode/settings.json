@@ -1,15 +1,14 @@
 {
     "java.project.sourcePaths": [
-        "Workbook 2.5 Solution",
-        "Workbook 2.4 Solution",
         "JavaChallenges/Workbook 2.3 Solution",
         "JavaChallenges/Workbook 2.2 Solution",
         "JavaChallenges/Workbook 2.1 Solution",
         "JavaChallenges/Workbook 1.1 Solution",
+        "JavaChallenges/Extra Practice (OOPS)/Part 3",
         "JavaChallenges/Extra Practice (OOPS)/Part 2",
         "JavaChallenges/Extra Practice (OOPS)/Part 1",
         "JavaChallenges/Challenge 1 Solution",
-        "JavaChallenges/Extra Practice (OOPS)/Part 3"
+        "JavaChallenges/Extra Practice (List Collection)"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
